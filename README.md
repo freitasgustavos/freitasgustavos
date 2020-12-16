@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 I'm Gustavo Freitas.
 I'm a full stack developer :computer:
 
-- :brain:   I’m currently working at **PsicoManager**
+- :brain:   I’m currently working at **Cropland Company**
 - :computer:   PHP, ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: Whatever you want
