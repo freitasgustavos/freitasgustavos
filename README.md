@@ -26,3 +26,7 @@ I'm a full stack developer :computer:
 <!-- :brain:   I’m currently working at **Maxxi Company** -->
 - :computer:   PHP, Java, ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: Whatever you want
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,spring,laravel,react,nodejs,npm,yarn,next,nest,express,fastapi,tailwind,mysql,postgres,mongodb,redis,prisma,graphql,docker,apollo,git,bitbucket,github,aws,gcp,firebase,azure,nginx,figma,linux,bash,apple,windows,discord,idea,webstorm,vscode)](https://skillicons.dev)
