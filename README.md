@@ -29,4 +29,4 @@ I'm a full stack developer :computer:
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,spring,laravel,react,nodejs,npm,yarn,next,nest,express,fastapi,tailwind,mysql,postgres,mongodb,redis,prisma,graphql,docker,apollo,git,bitbucket,github,aws,gcp,firebase,azure,nginx,figma,linux,bash,apple,windows,discord,idea,webstorm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,spring,laravel,react,nodejs,npm,yarn,next,nest,express,fastapi,tailwind,mysql,postgres,mongodb,redis,prisma,graphql,docker,apollo,git,bitbucket,aws,gcp,firebase,azure,nginx,figma)](https://skillicons.dev)
